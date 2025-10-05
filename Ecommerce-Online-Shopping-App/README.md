@@ -36,6 +36,7 @@ Develop a backend Python application simulating an e-commerce platform with user
 
 ## Files
 - `ECommerceShoppingApp.py` – main backend code  
-- `Online Shopping App – E-Commerce Project.pdf` – optional, demo outputs and description
+- `Online Shopping App – E-Commerce Project.pdf` – demo outputs and description
+
 
 
