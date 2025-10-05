@@ -1,7 +1,7 @@
 # Online Car Rental Platform
 
-## Objective
-Build an online car rental platform using Object-Oriented Programming in Python.
+## Problem Statement
+A car rental company wants an online platform where customers can view available cars, rent them on an hourly, daily, or weekly basis, and receive an auto-generated bill. The system should manage inventory, rental timing, and billing using Object-Oriented Programming concepts in Python.
 
 ## Tools & Technologies
 - Python, Jupyter Notebook
@@ -23,3 +23,4 @@ Build an online car rental platform using Object-Oriented Programming in Python.
 - Applied OOP concepts: classes, objects, methods, encapsulation.
 - Used Python modules and DateTime handling.
 - Developed menu-driven interactive project workflow.
+
