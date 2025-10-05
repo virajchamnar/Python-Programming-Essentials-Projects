@@ -1,7 +1,7 @@
 # Ecommerce Online Shopping App
 
-## Objective
-Build a Python-based backend for an e-commerce application with user and admin roles, shopping cart management, product catalog, and simulated payments.
+## Problem Statement
+Develop a backend Python application simulating an e-commerce platform with user and admin roles. Users can log in, browse products, manage shopping carts, and simulate payments. Admins can manage product catalog and categories. The system should implement session-based functionality and role-based access control without a database or UI.
 
 ## Tools & Technologies
 - Python 3.x
@@ -38,3 +38,4 @@ Build a Python-based backend for an e-commerce application with user and admin r
 - `ecommerce_backend.py` – main backend code  
 - `main.ipynb` – main notebook (if applicable)  
 - `screenshots.pdf` – optional, demo outputs and description
+
