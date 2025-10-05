@@ -17,11 +17,12 @@ A car rental company wants an online platform where customers can view available
 6. Tested the project and validated outputs.
 
 ## Output
-- Screenshots and PDFs included in `Online Car Rental Platform – Python Project.pdf`.
+- Screenshots and description included in `Online Car Rental Platform – Python Project.pdf`.
 
 ## Key Learnings
 - Applied OOP concepts: classes, objects, methods, encapsulation.
 - Used Python modules and DateTime handling.
 - Developed menu-driven interactive project workflow.
+
 
 
