@@ -35,7 +35,7 @@ Develop a backend Python application simulating an e-commerce platform with user
 - Error handling and code reusability
 
 ## Files
-- `ecommerce_backend.py` – main backend code  
-- `main.ipynb` – main notebook (if applicable)  
-- `screenshots.pdf` – optional, demo outputs and description
+- `ECommerceShoppingApp.py` – main backend code  
+- `Online Shopping App – E-Commerce Project.pdf` – optional, demo outputs and description
+
 
