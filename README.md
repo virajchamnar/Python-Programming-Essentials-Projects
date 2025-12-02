@@ -1,6 +1,6 @@
 # Python & Programming Essentials Projects
 
-This repository contains projects completed as part of Python and Programming Essentials courses in my MSc Data Science. Each project demonstrates problem-solving skills, Python programming, and Object-Oriented Programming concepts.
+This repository contains projects completed as part of Python and Programming Essentials courses in my Data Science. Each project demonstrates problem-solving skills, Python programming, and Object-Oriented Programming concepts.
 
 ## Projects
 
